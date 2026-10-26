@@ -1,0 +1,7 @@
+/session-snapshots
+/session.json
+/release-notes.json
+/herdr.sock.agent
+/herdr-server.log
+/herdr-client.log
+/.plugins.lock
